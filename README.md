@@ -8,6 +8,7 @@ I used codegen to create a sample test on "https://www.opscribe.site". Do this o
 
 ```bash
   playwright codegen opscribe.site
+  playwright codegen --color-scheme=dark opscribe.site # for dark mode
 ```
 
 Thanks
